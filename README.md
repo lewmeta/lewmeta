@@ -8,7 +8,8 @@ I'm a **passionate Web Developer & Designer** based in Nairobi, Kenya 🇰🇪. 
 
 ## 🌟 **About Me**
 
-![Animated Text](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F781&center=true&width=435&lines=Web+Developer+%7C+Designer+%7C+Tech+Enthusiast;Building+Engaging+Digital+Experiences;Delivering+Scalable+Solutions+with+Code)
+![Animated Text](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F781&center=true&vCenter=true&width=500&lines=Web+Developer+%7C+Designer+%7C+Tech+Enthusiast;Building+Engaging+Digital+Experiences;Delivering+Scalable+Solutions+with+Code)
+
 
 - 🎓 Degree in Applied Computer Science from Kisii University.
 - 👨‍💻 3 years of experience in ICT and Software Development.
