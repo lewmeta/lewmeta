@@ -1,8 +1,7 @@
-# Hi there, I'm Lewis Onyango! 👋
+# Hi there, I'm Lewis! 👋
+I'm a **passionate Web Developer & Designer** based in Nairobi, Kenya 🇰🇪. I specialize in **React.js**, **Next.js**, **TypeScript**, and more. My mission is to create seamless and engaging digital experiences through clean, efficient code, backed by a deep understanding of design principles. Welcome to my GitHub profile!
 
 ![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-I'm a **passionate Web Developer & Designer** based in Nairobi, Kenya 🇰🇪. I specialize in **React.js**, **Next.js**, **TypeScript**, and more. My mission is to create seamless and engaging digital experiences through clean, efficient code, backed by a deep understanding of design principles. Welcome to my GitHub profile!
 
 ---
 
@@ -53,9 +52,9 @@ I'm a **passionate Web Developer & Designer** based in Nairobi, Kenya 🇰🇪. 
 
 ## 📫 **Connect With Me**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lewisonyango)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/lewisonyango)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lewismeta)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=white)](https://lewismeta.vercel.app)
 
 ---
 
