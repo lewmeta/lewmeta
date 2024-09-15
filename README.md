@@ -10,10 +10,10 @@ I'm a **passionate Web Developer & Designer** based in Nairobi, Kenya 🇰🇪. 
 ![Animated Text](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F781&center=true&vCenter=true&width=500&lines=Web+Developer+%7C+Designer+%7C+Tech+Enthusiast;Building+Engaging+Digital+Experiences;Delivering+Scalable+Solutions+with+Code)
 
 
-- 🎓 Degree in Applied Computer Science from Kisii University.
-- 👨‍💻 3 years of experience in ICT and Software Development.
+- 🎓 Degree in Computer Science.
+- 👨‍💻 3 years of experience in Software Development and ICT.
 - 🚀 Focus on eCommerce, CMS solutions, and building user-centric web applications.
-- 🌍 I love optimizing logistics in Africa, delivering impactful tech solutions tailored for diverse markets.
+- 🌍 I love delivering impactful tech solutions tailored for diverse markets.
 
 ---
 
