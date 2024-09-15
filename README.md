@@ -1,4 +1,4 @@
-![Profile Banner](https://github.com/lewmeta/lewmeta/blob/main/banner.webp)
+![Profile Banner](https://github.com/lewmeta/lewmeta/blob/main/banner.png)
 
 # Hi there, I'm Lewis! 👋
 I'm a **passionate Web Developer & Designer** based in Nairobi, Kenya 🇰🇪. I specialize in **React.js**, **Next.js**, **TypeScript**, and more. My mission is to create seamless and engaging digital experiences through clean, efficient code, backed by a deep understanding of design principles. Welcome to my GitHub profile!
