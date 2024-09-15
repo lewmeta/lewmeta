@@ -1,4 +1,5 @@
-# Hi there, I'm Lewis! 👋
+# Hi there, I'm Lewis Onyango! 👋
+
 ![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 I'm a **passionate Web Developer & Designer** based in Nairobi, Kenya 🇰🇪. I specialize in **React.js**, **Next.js**, **TypeScript**, and more. My mission is to create seamless and engaging digital experiences through clean, efficient code, backed by a deep understanding of design principles. Welcome to my GitHub profile!
@@ -9,14 +10,10 @@ I'm a **passionate Web Developer & Designer** based in Nairobi, Kenya 🇰🇪. 
 
 ![Animated Text](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F781&center=true&width=435&lines=Web+Developer+%7C+Designer+%7C+Tech+Enthusiast;Building+Engaging+Digital+Experiences;Delivering+Scalable+Solutions+with+Code)
 
-- 🎓 Degree in Computer Science.
+- 🎓 Degree in Applied Computer Science from Kisii University.
 - 👨‍💻 3 years of experience in ICT and Software Development.
 - 🚀 Focus on eCommerce, CMS solutions, and building user-centric web applications.
 - 🌍 I love optimizing logistics in Africa, delivering impactful tech solutions tailored for diverse markets.
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lewmeta" alt="lewmeta" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ---
 
@@ -39,8 +36,8 @@ I'm a **passionate Web Developer & Designer** based in Nairobi, Kenya 🇰🇪. 
 ## 📈 **My GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lewis-onyango&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lewis-onyango&theme=radical" alt="GitHub Streak Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lewmeta&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lewmeta&theme=radical" alt="GitHub Streak Stats" width="400"/>
 </p>
 
 ---
@@ -48,7 +45,7 @@ I'm a **passionate Web Developer & Designer** based in Nairobi, Kenya 🇰🇪. 
 ## 🏆 **GitHub Trophies**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lewis-onyango&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=lewmeta&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -67,6 +64,7 @@ I'm a **passionate Web Developer & Designer** based in Nairobi, Kenya 🇰🇪. 
 - 🌱 Currently learning **Three.js** and **WebGL**.
 - 🎨 I'm also a design enthusiast who enjoys working with **Figma** to create intuitive UI/UX.
 - 📚 Always expanding my knowledge in **AI** and **Blockchain**.
+
 
   
 
