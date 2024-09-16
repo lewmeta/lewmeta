@@ -1,7 +1,7 @@
+# Hi there, I'm Lewis! 👋🏾 👨‍💻
 ![Profile Banner](https://github.com/lewmeta/lewmeta/blob/main/banner.png)
 
-# Hi there, I'm Lewis! 👋
-I'm a **passionate Web Developer & Designer** based in Nairobi, Kenya 🇰🇪. I specialize in **React.js**, **Next.js**, **TypeScript**, and more. My mission is to create seamless and engaging digital experiences through clean, efficient code, backed by a deep understanding of design principles. Welcome to my GitHub profile!
+I'm a passionate Web Developer & Designer rooted in the heart of Nairobi, Kenya 🇰🇪. Specializing in React and its vast ecosystem, along with Next.js, TypeScript, and beyond, I’m on a mission to transform complex ideas into intuitive, engaging digital experiences. My craft blends sleek, efficient code with thoughtful design, creating solutions that don't just work—they captivate. Whether you're here to collaborate, be inspired, or simply browse my latest creations, welcome to my GitHub playground!
 
 ![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
@@ -11,9 +11,8 @@ I'm a **passionate Web Developer & Designer** based in Nairobi, Kenya 🇰🇪. 
 
 ![Animated Text](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F781&center=true&vCenter=true&width=500&lines=Web+Developer+%7C+Designer+%7C+Tech+Enthusiast;Building+Engaging+Digital+Experiences;Delivering+Scalable+Solutions+with+Code)
 
-
 - 🎓 Degree in Computer Science.
-- 👨‍💻 3 years of experience in Software Development and ICT.
+- 👨‍💻 3 years of experience in Software Development.
 - 🚀 Focus on eCommerce, CMS solutions, and building user-centric web applications.
 - 🌍 I love delivering impactful tech solutions tailored for diverse markets.
 
