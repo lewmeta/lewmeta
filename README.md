@@ -50,6 +50,7 @@ I'm a passionate Web Developer & Designer rooted in the heart of Nairobi, Kenya 
   <img src="https://github-profile-trophy.vercel.app/?username=lewmeta&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
+
 ---
 
 ## 📫 **Connect With Me**
