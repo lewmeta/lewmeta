@@ -62,6 +62,6 @@ I'm a passionate Software Developer & Designer rooted in the heart of Nairobi, K
 ## 💡 **Fun Facts**
 
 - 🛠 I love tinkering with open-source projects in my free time.
-- 🌱 Currently learning **Three.js** and **WebGL**.
-- 🎨 I'm also a design enthusiast who enjoys working with **Figma** to create intuitive UI/UX.
+- 🌱 Currently learning **SAAS** and **CMS** developmet.
+- 🎨 I'm also a design enthusiast who enjoys working with **Figma**, **AdobeXd** and **SKETCH** to create intuitive UI/UX.
 - 📚 Always expanding my knowledge in **AI** and **Blockchain**.
