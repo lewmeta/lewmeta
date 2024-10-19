@@ -13,7 +13,7 @@ I'm a passionate Software Developer & Designer rooted in the heart of Nairobi, K
 - 👨‍💻 3 years of experience in Software Development.
 - 🚀 Focus on eCommerce, CMS solutions, and building user-centric web applications.
 - 🌍 I love delivering impactful tech solutions tailored for diverse markets.
-
+ 
 ---
 
 ## 🔧 **Tech Stack**
