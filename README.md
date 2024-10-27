@@ -5,7 +5,7 @@ I'm a passionate Software Developer & Designer rooted in the heart of Nairobi, K
   
 ---
 
-## 🌟 **About Me**
+## 🌟 **About Me** 
 
 ![Animated Text](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F781&center=true&vCenter=true&width=500&lines=Web+Developer+%7C+Designer+%7C+Tech+Enthusiast;Building+Engaging+Digital+Experiences;Delivering+Scalable+Solutions+with+Code)
 
