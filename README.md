@@ -32,25 +32,6 @@ I'm a passionate Software Developer & Designer rooted in the heart of Nairobi, K
 
 ---
 
-## 📈 **My GitHub Stats**  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lewmeta&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lewmeta&theme=radical" alt="GitHub Streak Stats" width="400"/>
-</p>
-
-
----
-
-## 🏆 **GitHub Trophies**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lewmeta&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
-
----
-
 ## 📫 **Connect With Me**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lewismeta)
