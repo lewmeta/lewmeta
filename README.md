@@ -16,7 +16,7 @@ I'm a passionate Software Developer & Designer rooted in the heart of Nairobi, K
  
 ---
 
-## 🔧 **Tech Stack**
+## 🔧 **Tech Stack** 
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
