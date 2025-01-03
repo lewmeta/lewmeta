@@ -2,7 +2,7 @@
 ![Profile Banner](https://github.com/lewmeta/lewmeta/blob/main/banner.png)           
       
 I'm a passionate Software Developer & Designer rooted in the heart of Nairobi, Kenya 🇰🇪. I’m on a mission to transform complex ideas into intuitive, engaging digital experiences. My craft blends sleek, efficient code with thoughtful design, creating solutions that don't just work—they captivate. Whether you're here to collaborate, be inspired, or simply browse my latest creations, welcome to my GitHub playground!          
-  
+    
 ---   
 
 ## 🌟 **About Me** 
